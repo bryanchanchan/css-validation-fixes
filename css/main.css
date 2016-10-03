@@ -1,5 +1,5 @@
 body {
-  background-color #ccc;
+  background-color: #ccc;
 }
 
 header {
@@ -11,6 +11,6 @@ h1 {
 }
 
 article {
-  font-style: italic
+  font-style: italic;
   color: #666;
 }
